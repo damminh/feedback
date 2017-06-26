@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FeedBacK</string>
+    <string name="footer">Copyright by Miraway (C) Miraway 2007-2016 | www.miraway.vn</string>
+    <string name="ngon_ngu">Language</string>
+    <string name="name_bank">VIETNAM BANK FOR INDUSTRY AND TRADE</string>
+    <string name="giao_dich_vien">Teller:</string>
+    <string name="quay_so">Counter number:</string>
+    <string name="binh_chon_service">PLEASE, RATE THE QUALITY OF SERVICE</string>
+    <string name="binh_chon_thanh_cong">SUCCESSFUL, THANK YOU!</string>
+</resources>

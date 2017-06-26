@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FeedBacK</string>
+    <string name="binh_chon_service">MỜI QUÝ KHÁCH BÌNH CHỌN CHẤT LƯỢNG PHỤC VỤ</string>
+    <string name="binh_chon_thanh_cong">BÌNH CHỌN THÀNH CÔNG, XIN CẢM ƠN!</string>
+    <string name="giao_dich_vien">Giao dịch viên:</string>
+    <string name="quay_so">Quầy số:</string>
+    <string name="ngon_ngu">Ngôn ngữ</string>
+    <string name="name_bank">NGÂN HÀNG TMCP CÔNG THƯƠNG VIỆT NAM</string>
+    <string name="footer">Copyright by Miraway (C) Miraway 2007-2016 | www.miraway.vn</string>
+</resources>

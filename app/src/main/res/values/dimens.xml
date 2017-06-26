@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_height">25dp</dimen>
+    <dimen name="textview_width">150dp</dimen>
+    <dimen name="ball_radius">30dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="font_size_header">10dp</dimen>
+    <dimen name="font_size_header_nn">12dp</dimen>
+    <dimen name="font_size_footer_miraway">8dp</dimen>
+    <dimen name="binh_chon_thanh_cong">17dp</dimen>
+</resources>
